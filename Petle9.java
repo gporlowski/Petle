@@ -1,8 +1,8 @@
 public class Petle9 {
     public static void main(String[] args) {
-        int x = 10;
-        for (int i = x; i > 0; i--) {
-            for (int j = 0; j < i; j++) {
+        int x = 5;
+        for (int i = 0; i < x; i++) {
+            for (int k = x; k > i; k--) {
                 System.out.print("*");
             }
             System.out.println();
