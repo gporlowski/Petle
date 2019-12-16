@@ -1,4 +1,4 @@
-public class Petle6 {
+public class Petle06 {
     public static void main(String[] args) {
         int from = 1, to = 459, sum = 0;
         for (int i = from; i <= to; i++) {
